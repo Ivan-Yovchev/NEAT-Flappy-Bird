@@ -1,0 +1,4 @@
+Digraph.*
+__pycache__/
+neat-checkpoint-*
+winner*
